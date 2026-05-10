@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=00FFB4&center=true&vCenter=true&width=500&lines=Bobby+Dykes;Cybersecurity+Consultant+%26+Developer;bobbycodes.dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=00FFB4&center=true&vCenter=true&width=500&lines=Cybersecurity+Consultant+%26+Developer;bobbycodes.dev;Building+Security+Tools" alt="Typing SVG" />
 </a>
 
 </div>
@@ -148,7 +148,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=I%20break%20things%20to%20make%20them%20stronger.&author=—%20Bobby%20Dykes" width="50%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=I%20break%20things%20to%20make%20them%20stronger.&author=—%20BluXploit" width="50%">
 
 <br>
 
