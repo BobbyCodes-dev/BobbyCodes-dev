@@ -1,46 +1,24 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  ██████╗  ██████╗ ██████╗ ██████╗ ██╗   ██╗             ║
-║  ██╔══██╗██╔═══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝             ║
-║  ██████╔╝██║   ██║██████╔╝██████╔╝ ╚████╔╝              ║
-║  ██╔══██╗██║   ██║██╔══██╗██╔══██╗  ╚██╔╝               ║
-║  ██████╔╝╚██████╔╝██████╔╝██║  ██║   ██║                ║
-║  ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝                ║
-║                                                          ║
-║   ██████╗██╗   ██╗██████╗ ███████╗██████╗               ║
-║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗              ║
-║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝              ║
-║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗              ║
-║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║              ║
-║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝              ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=00FFB4&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%86%92+Cybersecurity+Consultant;%24+whoami+%E2%86%92+Security+Tool+Developer;%24+whoami+%E2%86%92+Open+Source+Contributor;%24+whoami+%E2%86%92+AI+Automation+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=00FFB4&center=true&vCenter=true&width=500&lines=Bobby+Dykes;Cybersecurity+Consultant+%26+Developer;bobbycodes.dev" alt="Typing SVG" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/bobbycodes.dev-00ffb4?style=for-the-badge&logo=lock&logoColor=black)](https://bobbycodes.dev)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00ffb4)](mailto:bobby@bobbycodes.dev)
-[![Twitter](https://img.shields.io/badge/@BluXploit-1a1a2e?style=for-the-badge&logo=x&logoColor=00ffb4)](https://twitter.com/BluXploit)
-[![Location](https://img.shields.io/badge/Alexandria%2C_LA-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=00ffb4)](https://maps.app.goo.gl/AlexandriaLA)
+[![Website](https://img.shields.io/badge/bobbycodes.dev-00ffb4?style=flat-square&logoColor=black)](https://bobbycodes.dev)
+[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail)](mailto:bobby@bobbycodes.dev)
+[![Twitter](https://img.shields.io/badge/@BluXploit-333?style=flat-square&logo=x)](https://twitter.com/BluXploit)
+[![Location](https://img.shields.io/badge/Alexandria%2C_LA-333?style=flat-square&logo=googlemaps)](https://maps.app.goo.gl/AlexandriaLA)
 
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BobbyCodes-dev&style=for-the-badge&color=00ffb4&label=VISITORS" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=BobbyCodes-dev&style=flat-square&color=00ffb4&label=PROFILE+VIEWS" alt="visitors">
   <a href="https://github.com/BobbyCodes-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/BobbyCodes-dev?style=for-the-badge&color=00ffb4&logoColor=black&label=FOLLOWERS" alt="followers">
+    <img src="https://img.shields.io/github/followers/BobbyCodes-dev?style=flat-square&color=333&label=FOLLOWERS" alt="followers">
   </a>
 </div>
 
@@ -48,21 +26,11 @@
 
 ## 👾 `~/about-me`
 
-```
-┌────────────────────────────────────────────┐
-│  I break things to make them stronger.     │
-│                                            │
-│  Solo cybersecurity consultant running     │
-│  bobbycodes.dev out of Alexandria, LA.     │
-│  WiFi audits, network scans, web app       │
-│  testing, and physical security — flat     │
-│  rates, clear reports, no agency markup.   │
-│                                            │
-│  Building open-source security tools and   │
-│  AI agent fleets on the side. Ship fast,   │
-│  keep it clean.                            │
-└────────────────────────────────────────────┘
-```
+> I break things to make them stronger.
+> 
+> Solo cybersecurity consultant running [bobbycodes.dev](https://bobbycodes.dev) out of Alexandria, LA.
+> WiFi audits, network scans, web app testing, and physical security — flat rates, clear reports, no agency markup.
+> Also building open-source security tools and AI agent fleets on the side.
 
 <div align="center">
 
@@ -193,11 +161,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```
-╔══════════════════════════════════════╗
-║  🦞 CLAWSON — Chief of Staff        ║
-║  Running bobbycodes.dev since 2024  ║
-╚══════════════════════════════════════╝
-```
+
 
 </div>
