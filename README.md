@@ -82,51 +82,6 @@
 
 ---
 
-## 📊 `~/stats`
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BobbyCodes-dev&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffb4&text_color=c9d1d9&icon_color=00ffb4&border_color=00ffb420&hide_border=true&count_private=true&include_all_commits=true&ring_color=00ffb4" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyCodes-dev&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffb4&text_color=c9d1d9&border_color=00ffb420&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=BobbyCodes-dev&theme=chartreuse-dark&background=0d1117&border=00ffb420&stroke=00ffb4&ring=00ffb4&fire=00ffb4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ffb4&sideLabels=00ffb4&dates=c9d1d9&hide_border=true" alt="Streak Stats" />
-</a>
-
-</div>
-
----
-
-## 🏆 `~/trophies`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BobbyCodes-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 `~/contributions`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BobbyCodes-dev/BobbyCodes-dev/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BobbyCodes-dev/BobbyCodes-dev/output/snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/BobbyCodes-dev/BobbyCodes-dev/output/snake-dark.svg" width="70%">
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
----
-
 ## 🚀 `~/featured-projects`
 
 <div align="center">
@@ -144,23 +99,13 @@
 
 ---
 
-## ⚡ `~/fun`
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=I%20break%20things%20to%20make%20them%20stronger.&author=—%20BluXploit" width="50%">
-
-<br>
-
 <a href="https://openclaw.ai">
-  <img src="https://img.shields.io/badge/Powered_by-OpenClaw-00ffb4?style=for-the-badge&logo=robot&logoColor=black">
+  <img src="https://img.shields.io/badge/Powered_by-OpenClaw-00ffb4?style=flat-square&logoColor=black">
 </a>
 <a href="https://ollama.com">
-  <img src="https://img.shields.io/badge/Runs_on-Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=00ffb4">
+  <img src="https://img.shields.io/badge/Runs_on-Ollama-333?style=flat-square&logo=ollama&logoColor=00ffb4">
 </a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
 
 </div>
